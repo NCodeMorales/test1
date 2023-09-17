@@ -63,7 +63,7 @@
                     </div>
 
                     <div class="row">
-                        @if(in_array($user->user_type, Qs::getStaff()))
+                    {{-- @if(in_array($user->user_type, Qs::getStaff()))
                             <div class="col-md-4">
                                 <div class="form-group">
                                     <label>Date of Employment:</label>
@@ -71,7 +71,7 @@
 
                                 </div>
                             </div>
-                        @endif
+                        @endif --}}
 
                         <div class="col-md-4">
                             <div class="form-group">
