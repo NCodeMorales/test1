@@ -118,6 +118,3 @@ If you discover a security vulnerability within LAVSMS, please use pull request.
 - The Noticeboard/Calendar in the Dashboard Area
 - Librarian/Acountant user pages
 - Library Resources/Study Materials Upload for Students
-
-### **Contact [CJ INSPIRED]**
-- Phone : +2347068149559
